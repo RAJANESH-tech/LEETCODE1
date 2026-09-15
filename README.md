@@ -115,6 +115,7 @@
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@
 | [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Matrix
@@ -168,6 +170,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |

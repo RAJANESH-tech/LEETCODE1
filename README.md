@@ -158,12 +158,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0242-valid-anagram/) | Easy |
@@ -209,6 +211,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0090-subsets-ii/) | Medium |
@@ -256,4 +259,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0141-linked-list-cycle/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

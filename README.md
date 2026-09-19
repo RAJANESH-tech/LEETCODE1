@@ -107,6 +107,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0136-single-number/) | Easy |
@@ -123,6 +124,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
@@ -166,6 +168,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
+| [0067-add-binary](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0242-valid-anagram/) | Easy |
@@ -263,4 +266,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0022-generate-parentheses/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->

@@ -119,6 +119,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0476-number-complement/) | Easy |
 | [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
+| [1009-complement-of-base-10-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

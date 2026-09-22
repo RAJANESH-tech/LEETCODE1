@@ -115,6 +115,7 @@
 | [0191-number-of-1-bits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0476-number-complement/) | Easy |
@@ -129,6 +130,7 @@
 | [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -259,6 +261,7 @@
 | [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0342-power-of-four/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

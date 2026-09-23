@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
+| [0401-binary-watch](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0476-number-complement/) | Easy |
 | [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
@@ -221,6 +222,7 @@
 | [0046-permutations](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0090-subsets-ii/) | Medium |
+| [0401-binary-watch](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0401-binary-watch/) | Easy |
 | [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
